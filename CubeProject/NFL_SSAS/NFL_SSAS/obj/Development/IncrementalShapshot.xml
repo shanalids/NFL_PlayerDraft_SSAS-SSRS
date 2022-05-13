@@ -59,6 +59,13 @@
           <String>Cube_NFL _DW</String>
         </ID>
       </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Role</Type>
+        <TimeStamp>9qTzQ2jCdrPOaPuhdmBMjivnvO8=5/12/2022 1:42:38 PM5/12/2022 1:42:38 PM</TimeStamp>
+        <ID>
+          <String>Role</String>
+        </ID>
+      </ObjectSnapshot>
     </ObjectSnapshots>
     <DatabaseSnapshot>
       <Type>Microsoft.AnalysisServices.Database</Type>
@@ -71,5 +78,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2022-05-12T07:51:43.29Z</LastDeployed>
+  <LastDeployed>2022-05-13T03:56:31.96Z</LastDeployed>
 </DeploymentSnapshot>
